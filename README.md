@@ -44,41 +44,47 @@
 
 ## 软件安装
 
-  1. python介绍与安装
-
-  2. 输出与输入
+    1. python介绍与安装
+    2. 输出与输入
+    3. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2
 
 ## 变量数据类型
 
-  1. 注释
-  2. 变量
-  3. 数据类型
+    1. 注释
+    2. 变量
+    3. 数据类型
+    4. 学习资料下载地址1https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2
 
 ## 数据类型2
 
-  1. 数据类型
-  2. 运算符
+    1. 数据类型
+    2. 运算符
+    3. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EvPuJRP5vIJJnnwrQTG3l1EBWrocuwnl3tsafyJTiZAfbw?e=cShPb6
 
 ## 字符串、字典、列表
 
-  1. 常见字符串函数
-  2. 列表（访问、操作）
-  3. 元祖
-  4. 字典
+    1. 常见字符串函数
+    2. 列表（访问、操作）
+    3. 元祖
+    4. 字典
+    5. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/El7gsrwdW7ZMq2xZITC9g38BJKYdrkLNqhxy7kaE1SdO4A?e=fHD3Ug
 
 ## if语句
 
-  1. 什么是条件控制语句
-  2. if语句
+    1. 什么是条件控制语句
+    2. if语句
+    3. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/Ei8vJHoubf1PrjtvckHLJIQBK1lzoSkth6aTrPUtv-qfnw?e=yEZjZx
 
 ## while循环
 
-  1. 什么是循环语句
-  2. while循环语句
+    1. 什么是循环语句
+    2. while循环语句
+    3. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/Eiez7U2CP_1NqDaRYhDma9kBoZ_Iy8vj1brP46l2n85OMQ?e=VCatt9
 
 ## 跳转语句—for循环
 
-  1. for循环语法
+    1. for循环语法
+    2. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/Ego1A0W8o8dKnQ5hcqLobzgBefT8n_K2Kpm-WDVGIGM7iQ?e=TjTdES
 
 ## 函数
 
@@ -119,7 +125,7 @@
 
 ## matpotlib
 
-#### 视频学习地址链接：https://pan.baidu.com/s/1DEUQICgDiA_34P2P-Btx0w 密码：o1dk
+
 
 =================================================================
 
