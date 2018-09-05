@@ -46,14 +46,15 @@
 
     1. python介绍与安装
     2. 输出与输入
-    3. 学习资料下载地址https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2
+    
+    [视频下载](https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2)
 
 ## 变量数据类型
 
     1. 注释
     2. 变量
     3. 数据类型
-    4. 学习资料下载地址1https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2
+    [视频下载](https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EoWcnrZQXqZLoD7YYIspnjcB7RlsDVVJt1AZFJF2Nx2hsA?e=5XkTp2)
 
 ## 数据类型2
 
