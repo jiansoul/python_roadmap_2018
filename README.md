@@ -17,13 +17,14 @@
 
 <!-- /TOC -->
 
+
+
 ## 学习参考列表
 
-#### [Python-Tutorial](https://www.tutorialspoint.com/python/)需要注册*
+##### 1.[Python-Tutorial](https://www.tutorialspoint.com/python/)需要注册*
+##### 2.[w3schools学习网站英文US](https://www.w3schools.com/python/default.asp)*需要我陪你
 
-#### [w3schools学习网站英文US*需要我陪你](https://www.w3schools.com/python/default.asp)
-
-#### [自学资料](https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EiMsBky-ZyZEkE0etqh9yvcBF99AkOoWV1nEl6BTzyKqfA?e=uZAhqA)
+##### 3.[自学资料](https://freeshadow-my.sharepoint.com/:f:/g/personal/hkqogqnvq_abcda_tech/EiMsBky-ZyZEkE0etqh9yvcBF99AkOoWV1nEl6BTzyKqfA?e=uZAhqA)
 
 ## 软件安装
 
