@@ -81,7 +81,7 @@
 
 4. #### [匿名函数](https://www.tutorialspoint.com/python_essentials_online_training/python_anonymous_or_lambda_function.asp)
 
-5. ##### [递归函数](https://www.tutorialspoint.com/python_essentials_online_training/python_recursion.asp)
+5. #### [递归函数](https://www.tutorialspoint.com/python_essentials_online_training/python_recursion.asp)
 
 6. #### [模块](https://www.tutorialspoint.com/python_essentials_online_training/python_different_modules.asp)
 
@@ -94,9 +94,9 @@
 
 ## 文件操作
 
-  1. ##### [文件的读写](https://www.tutorialspoint.com/python_essentials_online_training/python_file_read_and_write_operations.asp)
+  1. #### [文件的读写](https://www.tutorialspoint.com/python_essentials_online_training/python_file_read_and_write_operations.asp)
 
   2. #### [文件方法](https://www.tutorialspoint.com/python_essentials_online_training/python_file_methods.asp)
 
-  3. ##### [目标和文件管理](https://www.tutorialspoint.com/python_essentials_online_training/python_directory_and_file_management.asp)
+  3. #### [目标和文件管理](https://www.tutorialspoint.com/python_essentials_online_training/python_directory_and_file_management.asp)
 
